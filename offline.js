@@ -1,0 +1,33 @@
+﻿{
+	"version": 1760441408,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bg-sheet0.png",
+		"images/trump-sheet0.png",
+		"images/obstacle-sheet0.png",
+		"images/obstacle-sheet1.png",
+		"images/obstacle-sheet2.png",
+		"images/blimp-sheet0.png",
+		"images/playbtn-sheet0.png",
+		"images/start-sheet0.png",
+		"images/gameover-sheet0.png",
+		"images/restartbtn-sheet0.png",
+		"images/pausebtn-sheet0.png",
+		"images/smoke.png",
+		"media/trump park - bgm.m4a",
+		"media/trump park - bgm.ogg",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"media/hit.m4a",
+		"media/hit.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
