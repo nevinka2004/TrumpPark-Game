@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1761120367,
+	"version": 1761130408,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,8 @@
 		"images/buttons-sheet0.png",
 		"images/buttons-sheet1.png",
 		"images/sticker-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/trump park - bgm.m4a",
 		"media/trump park - bgm.ogg",
 		"media/jump.m4a",
